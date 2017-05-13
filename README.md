@@ -1,2 +1,2 @@
 # datasciencecoursera
-Coursera JHU Data sciece repo
+Coursera JHU Data science repo
